@@ -2,5 +2,4 @@
 
 date > currentTime
 
-git add -a -m "XGENTOOLS-1859 - automatically-generated commit for testing"
-
+git commit -a -m "XGENTOOLS-1859 - automatically-generated commit for testing"
